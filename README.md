@@ -2,7 +2,7 @@
 
 
 - 🌱 Currently studying data science and working on soon not so secret project
-- ⚡ Fun fact: I like unusaulties
+- ⚡ Fun fact: I like unusaulties 👽
 
 ---
 
