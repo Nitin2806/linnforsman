@@ -1,7 +1,7 @@
 ### Hello 👋 I'm Linn
 
 
-- 🌱 Currently studying data science and working on soon not so secret project
+- 🌱 Currently finishing my Data Scientist Nanodegree from Udacity and building my data science portfolio
 - ⚡ Fun fact: I like unusaulties 👽
 
 
