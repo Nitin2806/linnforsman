@@ -32,3 +32,14 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://linnforsman.netlify.app
+          
+      - name: 🦑 Personal metrics (bottom)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.personal.achievements.svg
+          token: ${{ secrets.PROJECTS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          config_display: large
