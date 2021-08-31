@@ -18,7 +18,7 @@ jobs:
           # Options
           user: linnforsman
           template: classic
-          base: header
+          base: header, metadata
           config_timezone: Europe/Oslo
           plugin_achievements: yes
           plugin_achievements_display: compact
